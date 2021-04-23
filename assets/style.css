@@ -1,15 +1,17 @@
+/**Global Selector Section **/
+
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
-
+/**Main Body styling **/
 html,
 body,
 .wrapper {
   height: 100%;
   margin: 0;
-  padding: 0;
+  padding: 0; 
 }
 
 body {
@@ -44,7 +46,7 @@ header {
 
 .card-header::after {
   content: " ";
-  display: block;
+  display: block;6
   width: 100%;
   background: #e7e9eb;
   height: 2px;
@@ -53,7 +55,7 @@ header {
 .card-body {
   min-height: 100px;
 }
-
+/** Footer section **/
 .card-footer {
   text-align: center;
 }
