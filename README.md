@@ -1,2 +1,3 @@
-# rock-paper-scissors
-Interactive game of rock, paper, and scissors using pop up windows that also keep score.
+# password-generator
+
+password generator
